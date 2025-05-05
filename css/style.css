@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    box-shadow: 0;
+    
+}
+
+.container {
+    border: 2px;
+}
+
+.card {
+    border: 2px;
+}
+
+.content {
+    border: 2px;
+}
